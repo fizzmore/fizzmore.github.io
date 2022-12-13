@@ -1,25 +1,29 @@
-# CakePHP 3
+# Vim
+*~
+*.sw[p_]
 
-/vendor/*
-/config/app.php
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
 
-/tmp/cache/models/*
-!/tmp/cache/models/empty
-/tmp/cache/persistent/*
-!/tmp/cache/persistent/empty
-/tmp/cache/views/*
-!/tmp/cache/views/empty
-/tmp/sessions/*
-!/tmp/sessions/empty
-/tmp/tests/*
-!/tmp/tests/empty
+# Ruby Gem
+*.gem
+.bundle
+Gemfile.lock
+**/vendor/bundle
 
-/logs/*
-!/logs/empty
+# Node.js and NPM
+node_modules
+npm-debug.log*
+package-lock.json
+codekit-config.json
 
-# CakePHP 2
+# macOS
+.DS_Store
 
-/app/tmp/*
-/app/Config/core.php
-/app/Config/database.php
-/vendors/*
+# Jekyll generated files
+.jekyll-cache
+.jekyll-metadata
+.sass-cache
+_asset_bundler_cache
+_site
