@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9d99926-a20d-456a-93e7-d845ee812aea" name="Changes" comment="" />
+    <list default="true" id="a9d99926-a20d-456a-93e7-d845ee812aea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/what_we_do.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/who_we_are.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/allposts.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/allposts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-8-20-etiam.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-8-21-consequat.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-8-22-ipsum.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-8-23-magna.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-8-24-tempus.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-8-25-aliquam.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-11-30-interest_rate.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-11-30-interest_rate.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/wallstreet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/wallstreet.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements.md" beforeDir="false" afterPath="$PROJECT_DIR$/elements.md2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic.md" beforeDir="false" afterPath="$PROJECT_DIR$/generic.md2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing.md" beforeDir="false" afterPath="$PROJECT_DIR$/landing.md2" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,23 +44,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/bill/Documents/jekyll/fizzmore.github.io/assets/images&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.externalTools&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/bill/Documents/jekyll/fizzmore.github.io",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.externalTools",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bill\Documents\jekyll\fizzmore.github.io" />
       <recent name="C:\Users\bill\Documents\jekyll\fizzmore.github.io\assets\images" />
       <recent name="C:\Users\bill\Documents\jekyll\fizzmore.github.io\_posts" />
       <recent name="C:\Users\bill\Documents\jekyll\fizzmore.github.io\_includes" />
@@ -68,7 +89,7 @@
       <workItem from="1671059191945" duration="3504000" />
       <workItem from="1671316861410" duration="2616000" />
       <workItem from="1671395465779" duration="3318000" />
-      <workItem from="1672680712987" duration="1668000" />
+      <workItem from="1672680712987" duration="11886000" />
     </task>
     <servers />
   </component>

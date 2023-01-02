@@ -19,7 +19,7 @@ socials:
   GitLab:
   Google-Plus:
   Instagram:
-  LinkedIn: www.linkedin.com/in/bill-sung
+  LinkedIn: https://linkedin.com/in/bill-sung
   Twitter:
   Facebook:
   Slack:
@@ -35,3 +35,6 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
+
+plugins:
+  - jemoji

@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Interest Rate vs. Market
+title: Federal Reserve Announcement vs. Market Movement
+date: 2022-11-29
 description: 
 image: assets/images/wallstreet.jpg
 ---
 
-When I say interest rate, I meant federal reserve rate (i.e., fed rate). The fed rate is the base rate of various lending rates offered in banks.
-In a very simple way, the burrowing rate from bank should be at least larger than this fed rate. If burrowing rate is increased, it will slow down the inflation and hopefully calm the economy. This is why Federal Open
-Market Committee (FOMC) meets every month to decide whether to adjust the fed rate.
+Federal Open Market Committee (FOMC) meets every month to decide whether to adjust the fed rate. We generally consider this fed rate as interest rate as it is the base rate of various lending rates offered in banks.
+In a very simple way, the burrowing rate from bank should be at least larger than this fed rate. As of November 2022, the fed rate of around 1% corresponds to 5% of 5-year fix rate lending rate (mortgage rate). 
+<br>The fed rate is base rate that other factors such as loan term (duration of burrowing), credit score, collateral, market view on interest rate will affect how much the rate should be increased.     
 
 The figure below is the recent historical fed rate [^1].
 
@@ -18,8 +19,8 @@ The figure below is the recent historical fed rate [^1].
         <img src="{% link assets/images/fed_rate.png %}" alt="" />
     </span>
 </div>
-As you can observe from the historical fed rate, it started to hike since March of 2022 when Federal Reserve focused on inflation.
-When the interviewer asked about the first 25 basis point (0.25%) interest rate hike, Federal Reserve Chair Jerome Powell quoted as follows:
+As you can observe from the historical fed rate, it started to hike since March of 2022 when Federal Reserve focused on inflation. Before 2022, Fed rate remained very low (near zero) due to slow enconomic condition before pre-pandemmic and during pandemic. 
+When the interviewer asked about the first 25 basis point (0.25%) interest rate hike on March of 2022, Federal Reserve Chair Jerome Powell quoted as follows:
 
 > as we raise interest rates, that should gradually
 slow down demand for the interest-sensitive parts of the economy. And so what we would see is
@@ -27,6 +28,8 @@ demand slowing down, but just enough so that it’s better matched with supply. 
 brings—that will bring inflation down over time. That’s our plan.
 
 Also, Powell mentioned that the unemployment is 3.8% in February (lowest since pre-pandemic) and labor market was stronger than expected.
+<br> We just discussed inflation with unemployment rate (one of labor market indexes). The monetary policy from Fed by increasing fed rate will have negative impact on business, because it is harder / expensive to burrow money. 
+This is referred as slowing down the economy to make the living cost down. The by-product of this monetary policy is that there will be increase in unemployment rate. However, Powell is expecting is that the current unemployment rate is still very low, so negative impact on slowing down the economy will be manageable. 
 
 It is important look closely on Powell's expectation and the tone of his speech. The first rate increase in March sounds like it would just slow down the spending and lower inflation while remain strong economy.
 
