@@ -23,20 +23,20 @@ nav-menu: true
 </span></p>
 <p><u>Creator / Innovator in Big Data World</u></p>
 
-After graduating from Georgia Tech, I worked for a high frequency trading firm in Chicago. I know it was more than 10 years ago, and <i>big data or machine learning</i> was not a thing back then.
-However, I was analyzing billions rows of data to find the pattern in the market to create trading strategies. Sound like fun right? :grin: <br><br>  
+After graduating from Georgia Tech, I worked for a high frequency trading firm in Chicago. It was more than 10 years ago, and <i>"big data" or "machine learning"</i> was not a thing back then.
+However, I was analyzing millions rows of data to find the pattern in the market to create trading strategies. Sound like fun right? :grin: <br><br>  
 
-Spending 5 years in Chicago allowed me to move back to Atlanta for financial model developer in commercial banking industry. I got to involve building a pricing models interest rate / mortgage related products which helped me to broaden my understanding in Finance.
-It was around 2018 that commercial banks started to invest a lot on building machine learning models with the customer data they've been gathering. I was lucky enough to lead the team to provide consumer insights on wholesale customers. These data were not limited to traditional data such as product purchased data, historical loan transactions.
-The new types of data ranging from the school senior leader graduated to location of headquarter and interesting features in that area. Data gathered from various sources try to understand the companies goal and future holistically.
+Spending 5 years in Chicago allowed me to move back to Atlanta for financial model developer in commercial banking industry. I got to involve building pricing models related to interest rates and mortgage rates, and these projects helped me to broaden my understanding in Finance.
+It was around 2018 that commercial banks started to invest on building machine learning models with the customer data they've been gathering. I was lucky enough to lead the team to provide consumer insights on wholesale customers. These data were not limited to traditional data such as product purchased data, historical loan transactions.
+The new types of data ranging from schools that senior leaders graduated to count of re-tweets on company's news. These new data enabled the view on company's goal more holistically.
 <br><br>
 World of big data fascinated me, and I've been working as a leader to understand more on consumers since then.
 <br><br>
 If you felt my career journey has been crazy, I hope my academic background may shed light on:
 <ul>
-    <li>Aerospace Engineering, Ph D, Georgia Tech</li>
-    <li>Quantitative Finance, M.S., Georgia Tech</li>
-    <li>Mechanical Engineering, B.S, KAIST</li>
+    <li>Aerospace Engineering, Ph D., Georgia Tech <img style='vertical-align:middle;' src="{% link assets/images/gt_small.png %}" alt="" /></li>
+    <li>Quantitative Finance, M.S., Georgia Tech <img style='vertical-align:middle;' src="{% link assets/images/gt_small.png %}" alt="" /></li>
+    <li>Mechanical Engineering, B.S, KAIST <img style='vertical-align:middle;' src="{% link assets/images/kaist_small.png %}" alt="" /></li>
 </ul>
 
 </div>
@@ -45,9 +45,9 @@ If you felt my career journey has been crazy, I hope my academic background may 
 <section id="one">
 	<div class="inner">
 
-<h2>Sophia Sung</h2>
+<h2 >Sophia Sung</h2>
 
-<p><span class="image right"><img src="{% link assets/images/sop.jpg %}" alt="" /></span></p>
+<p><span class="image left"><img src="{% link assets/images/sop.jpg %}" alt="" /></span></p>
 <p><u>Communicator / Intern with lots of curiosity</u></p>
 
 Hi, my name is Sophia Sung. I'm a senior at Johns Creek high school. I know what you would say; why is high school kid doing here? Does she know anything about Finance?

@@ -2,6 +2,7 @@
 title: Fizzmore
 subtitle: Light up your investment
 email: support@fizzmore.com
+formspree: https://formspree.io/f/mvonokbl  # Get it from fromspree
 description: Bi-weekly blogs on investment insights and customized trading strategies
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
