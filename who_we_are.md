@@ -58,9 +58,9 @@ I was fortunate to spend few months helping create contents for Bi-weekly Market
 <br><br>
 Here is few accomplishments I have from Johns Creek high school:
 <ul>
-    <li>Co-Vice President, Future Business Leaders of America (FBLA) in 2022 </li>
-    <li>Vice President, UNICEF club</li>
-    <li>Amazingly annoying daughter :smirk:</li>
+    <li>Gold President's Volunteer Service Award, 2021 and 2022 </li>
+    <li>Co-Vice President, Future Business Leaders of America (FBLA), 2022 </li>
+    <li>Co-Vice President, UNICEF, 2022</li>
 </ul>
 
 
